@@ -1,0 +1,3 @@
+/home/watrix/mytest/CMakeFiles/edit_cache.dir
+/home/watrix/mytest/CMakeFiles/rebuild_cache.dir
+/home/watrix/mytest/CMakeFiles/facedemo.dir
